@@ -1,0 +1,13 @@
+=== Usuario ===
+Nombre: gilberto
+Apellido Paterno: diarte
+Apellido Materno: salas
+Fecha de Nacimiento: 9/4/1996
+Correo: gil@uabc.com
+Telefono: 6462472307
+Contrasenia: hola
+CURP: disg96e3988932
+Cuenta: 3076806468
+CLABE: 518123137522327119
+Saldo: 0.00
+
